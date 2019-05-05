@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-starship';
+  title = 'The starship store';
+  description = 'One stop shop for all things starship';  
 }
